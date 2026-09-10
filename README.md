@@ -231,3 +231,6 @@ This repository serves as the official landing page for Street Fighter 4. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Street Fighter 4 today!**
+
+---
+**Last updated:** 2026-09-10 06:59:03 UTC
